@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "before": true,
+    "contract": true,
+    "web3": true,
+    "artifacts": true
+  }
+}
